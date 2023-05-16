@@ -1,0 +1,43 @@
+{
+    "globalConfig": {
+        "serverUrl": "https://192.168.0.105:8080",
+        "homeDirectory": "/home/yan/projects/Xiaoxianshu",
+        "database": {
+            "host": "127.0.0.1:3306",
+            "userName": "yan",
+            "password": "1995yzh",
+            "schema": "Test"
+        }
+    },
+    "indexPage": {
+        "banner": [{
+            "id": 1,
+            "link": "",
+            "imageUrl":"https://192.168.0.105:8080/res?dir=banner&fname=a.jpg"
+        }],
+        "channel": [{
+            "id": 1,
+            "url": "",
+            "iconUrl": "https://192.168.0.105:8080/res?dir=channel&fname=1.jpg",
+            "name": "首页"
+        },
+        {
+            "id": 2,
+            "url": "",
+            "iconUrl": "https://192.168.0.105:8080/res?dir=channel&fname=2.jpg",
+            "name": "家具"
+        },
+        {
+            "id": 3,
+            "url": "",
+            "iconUrl": "https://192.168.0.105:8080/res?dir=channel&fname=3.jpg",
+            "name": "宠物"
+        },
+        {
+            "id": 4,
+            "url": "",
+            "iconUrl": "https://192.168.0.105:8080/res?dir=channel&fname=4.jpg",
+            "name": "数码"
+        }]
+    }
+}

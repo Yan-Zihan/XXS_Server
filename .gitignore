@@ -1,0 +1,8 @@
+.vscode/settings.json
+.vscode/c_cpp_properties.json
+tmp/*
+logs/*
+myCA*
+schema
+server
+*.pem
